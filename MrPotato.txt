@@ -7,3 +7,8 @@
  BOTAS
  GUANTES
  BUFANDA
+<<<<<<< HEAD
+ SOMBRERO
+ GAFAS
+=======
+>>>>>>> parent of 1b05336... GAFAS
